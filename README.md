@@ -16,6 +16,17 @@ This repository contains the practical projects completed during my 45-day Summe
 * **Tech Stack:** Python, Natural Language Processing (NLP), Scikit-Learn, Jupyter Notebook.
 * **Key Steps:** Tokenization, feature extraction, text classification, and testing.
 
+## Phishing Email Detection
+
+An AI-powered phishing email detection system using NLP, TF-IDF, and a Neural Network.
+
+Best model: Neural Network
+Accuracy: 96.73%
+
+Run the application:
+
+pip install -r requirements.txt
+streamlit run app.py
 ---
 
 ## 📊 Dataset Sources
